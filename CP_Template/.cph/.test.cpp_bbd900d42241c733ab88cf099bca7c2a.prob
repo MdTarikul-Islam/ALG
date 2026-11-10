@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\Phitron\\ALG\\CP_Template\\test.cpp","tests":[{"id":1789989543346,"input":"6\n2 9 6 2 9 4\n35","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\ALG\\CP_Template\\test.cpp","group":"local","local":true}
